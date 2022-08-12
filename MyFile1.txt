@@ -1,1 +1,2 @@
 It's blank file
+Before it is blank now I am editing something in it
