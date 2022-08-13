@@ -1,1 +1,3 @@
 Now Gain it's goig to be a blank file
+
+DOme more chnges in file 1 -> from all about git
